@@ -1,3 +1,4 @@
 name: Proton
 version: ${version}
 main: me.drepic.proton.bukkit.BukkitBootstrap
+load: STARTUP
